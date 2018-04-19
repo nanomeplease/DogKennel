@@ -1,0 +1,6 @@
+Bella,Pitbull,85,2,Black,.
+Mallox,Husky,70,5,White,.
+Rocky,Daschund,15,13,Black,.
+Attilla,Mastiff,30,1,Blue,.
+Clifford,Lab,500,4,Red,.
+Teddy,Yorkie,2,1,Black,.
